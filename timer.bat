@@ -1,0 +1,2 @@
+my_graphic.py
+pause
